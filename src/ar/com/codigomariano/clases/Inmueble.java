@@ -1,6 +1,6 @@
-package ar.com.codigomariano;
+package ar.com.codigomariano.clases;
 
-public class Inmueble {
+public abstract class Inmueble {
 	private String direccion;
 	private float precio;
 	private int cantAmbientes;

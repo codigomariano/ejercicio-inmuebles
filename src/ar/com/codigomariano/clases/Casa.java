@@ -1,4 +1,4 @@
-package ar.com.codigomariano;
+package ar.com.codigomariano.clases;
 
 public class Casa extends Inmueble {
 	private boolean piscina; 
